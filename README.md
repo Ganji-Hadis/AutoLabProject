@@ -1,2 +1,3 @@
 # AutoLabProject
 Simulating the Full Automation of a Production Line
+In this project, we aim to produce raw materials from two sources: green and blue materials. These materials will be merged using the Pop Up Wheel Sorter, forming a combined path leading to the Machining Center machine. The machine transforms these materials into base or lid components, which are then sent through an output path to the Pick & Place device. This device efficiently separates them by color and directs them into two separate paths for storage. The blue lids and bases are stored using Stacker Crane 2, while Stacker Crane 1 handles the storage of the green lids and bases. 
